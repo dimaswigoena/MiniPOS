@@ -11,11 +11,13 @@ Aplikasi Penjualan Mini POS (Point of Sale) berbasis desktop adalah solusi peran
 
 ## Screenshots
 
-**Halaman Utama**
+**Halaman Utama** <br />
 ![Halaman Utama](https://github.com/dimaswigoena/MiniPOS/blob/main/Screenshot/halaman%20utama.PNG)
-
-**Kasir**
-![Halaman Surat](https://github.com/dimaswigoena/MiniPOS/blob/main/Screenshot/kasir.PNG)
+<br />
+<br />
+<br />
+**Kasir** <br />
+![Halaman Kasir](https://github.com/dimaswigoena/MiniPOS/blob/main/Screenshot/kasir.PNG)
 
 
 ## Dibuat Menggunakan
